@@ -280,6 +280,7 @@
       <reference ref="Vcs.ShowDiffWithLocal"/>
       <reference ref="Vcs.ShowDiffWithLocal.Before"/>
       <reference ref="Vcs.EditSource"/>
+      <reference id="Vcs.ShowTabbedFileHistory"/>
       <reference ref="Vcs.OpenRepositoryVersion"/>
       <reference ref="Vcs.RevertSelectedChanges"/>
       <reference ref="Vcs.ApplySelectedChanges"/>
